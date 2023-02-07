@@ -1,0 +1,15 @@
+python-gdcm
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+numpy
+pydicom
+scikit-image
+scipy
+matplotlib
+pandas
+opencv-python
+scikit-learn
+captum
+quantus
+shap
